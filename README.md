@@ -1,5 +1,5 @@
 # Course-4-System-Administration-and-IT-Infrastructure-Services
-📌 Project Overview
+# 📌 Project Overview
 
 This project demonstrates the setup and configuration of a basic local web server using Microsoft Internet Information Services (IIS) on Windows.
 
@@ -89,9 +89,5 @@ Default IIS Welcome page
 
 wwwroot directory
 
-Custom webpage displayed in browser
+Custom webpage displayed in browser.
 
-# 👤 Author
-
-# Mashudu Motaung
-Aspiring Cloud Engineer | IT Support & Infrastructure Enthusiast
