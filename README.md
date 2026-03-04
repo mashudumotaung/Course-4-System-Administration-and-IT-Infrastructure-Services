@@ -5,7 +5,7 @@ This project demonstrates the setup and configuration of a basic local web serve
 
 The objective was to configure a working local server, create a simple hosted webpage, and understand how web services operate within an IT infrastructure environment.
 
-🖥️ Technologies Used
+# 🖥️ Technologies Used
 
 *Windows Operating System
 
