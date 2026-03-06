@@ -91,3 +91,11 @@ wwwroot directory
 
 Custom webpage displayed in browser.
 
+📝 Conclusion
+
+This project provided practical experience in configuring a basic web server using Microsoft Internet Information Services (IIS) on a Windows operating system. Through this setup, I gained an understanding of how web servers host and deliver web content to users through a browser.
+
+By enabling IIS, locating the default web directory, and deploying a simple HTML webpage, I was able to successfully run a local server and verify that it was functioning correctly. This exercise also helped me understand important system administration concepts such as server configuration, directory structure, and web service deployment.
+
+Overall, this project strengthened my foundational knowledge of IT infrastructure and demonstrated how web servers function in real-world environments. These skills are essential for roles in system administration, IT supprt and Cloud.
+
