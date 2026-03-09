@@ -1,11 +1,11 @@
 # Course-4-System-Administration-and-IT-Infrastructure-Services
-# 📌 Project Overview
+# Project Overview
 
 This project demonstrates the setup and configuration of a basic local web server using Microsoft Internet Information Services (IIS) on Windows.
 
 The objective was to configure a working local server, create a simple hosted webpage, and understand how web services operate within an IT infrastructure environment.
 
-# 🖥️ Technologies Used
+# Technologies Used
 
 *Windows Operating System
 
@@ -13,7 +13,7 @@ The objective was to configure a working local server, create a simple hosted we
 
 *HTML and CSS (Static Web Page)
 
-# ⚙️ Server Setup Process
+#  Server Setup Process
 # Step 1: Enable IIS
 
 I enabled IIS through:
@@ -48,7 +48,7 @@ The file contains a basic HTML structure to test server functionality.
 
 When accessing http://localhost in a web browser, the server successfully displayed the custom webpage.
 
-# 🌐 Services Configured
+# Services Configured
 
 Web Server (HTTP)
 
@@ -62,7 +62,7 @@ C:\inetpub
 └── wwwroot
     └── index.html
 
-# ✅ Outcome
+#  Outcome
 
 The local IIS server successfully hosted a static web page.
 This demonstrates:
@@ -91,7 +91,7 @@ wwwroot directory
 
 Custom webpage displayed in browser.
 
-# 📝 Conclusion
+#  Conclusion
 
 This project provided practical experience in configuring a basic web server using Microsoft Internet Information Services (IIS) on a Windows operating system. Through this setup, I gained an understanding of how web servers host and deliver web content to users through a browser.
 
