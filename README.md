@@ -67,6 +67,9 @@ C:\inetpub
 The local IIS server successfully hosted a static web page.
 This demonstrates:
 
+<img width="1223" height="580" alt="image" src="https://github.com/user-attachments/assets/7e6b25c7-9a75-4d75-aa2f-f29872c2996c" />
+
+
 Basic server configuration
 
 Web service functionality
@@ -75,11 +78,11 @@ Understanding of server directory structure
 
 Practical application of IT infrastructure concepts
 
-# 🚀 Infrastructure Relevance
+# Infrastructure Relevance
 
 This setup simulates how web servers operate in enterprise and cloud environments such as Microsoft Azure and AWS. Understanding local server configuration builds foundational knowledge for cloud engineering and system administration roles.
 
-# 📸 Screenshots Included
+#  Screenshots Included
 
 IIS installation enabled
 
